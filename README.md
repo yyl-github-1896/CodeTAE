@@ -106,7 +106,7 @@ Note that if you cannot successfully load a pre-trained model from the network, 
 
 ## Adversarial Fine-tuning
 
-We use the CodeTAE adversarial examples generated on the training set to fine-tune the victim model to improve the generalization and robustness of the victim model. You can also download [our adversarial fine-tuned models](https://drive.google.com/file/d/1xbNgBJ3tx6V3sCYm2kSBFPcQNqyOXMKw/view?usp=sharing), `model_at.bin` is an enhanced model obtained in our experiment. Please see our paper for specific results. 
+We use the CodeTAE adversarial examples generated on the training set to fine-tune the victim model to improve the generalization and robustness of the victim model. You can also download [our adversarial fine-tuned models](https://drive.google.com/file/d/1xbNgBJ3tx6V3sCYm2kSBFPcQNqyOXMKw/view?usp=sharing), `model_at.bin` is an enhanced model obtained in our experiment.
 
 ## Acknowledgments
 
