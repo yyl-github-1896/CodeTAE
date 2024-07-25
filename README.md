@@ -34,7 +34,7 @@ CUDA_VISIBLE_DEVICES=0 python get_substitutes.py \
     --block_size 512
 ```
 
-The generated substitute identifiers is stored at the location of the hyperparameter `--store_path`.
+Note that to achieve good results, both substitute identifiers should be generated (`get_substitutes.py` and `get_substitutes_gan`). The generated substitute identifiers is stored at the location of the hyperparameter `--store_path`.
 
 ## Obfuscated Code Insertion
 
