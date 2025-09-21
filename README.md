@@ -124,4 +124,4 @@ Our code refers to:
 
 We are in XJTU-AISEC lab led by [Prof. Chao Shen](https://gr.xjtu.edu.cn/en/web/cshen/home), [Prof. Chenhao Lin](https://gr.xjtu.edu.cn/en/web/linchenhao), [Prof. Zhengyu Zhao](https://zhengyuzhao.github.io/), Prof. Qian Li, and etc. in the School of Cyber Science and Engineering, Xi'an Jiaotong University.
 
-Please contact Yulong Yang at xjtu2018yyl0808@stu.xjtu.edu.cn and Haoran Fan at haoran.fan@stu.xjtu.edu.cn if you have any question on the codes. If you find this repository useful, please consider giving ⭐.
+Please contact Yulong Yang at yulongyang@stu.xjtu.edu.cn and Haoran Fan at haoran.fan@stu.xjtu.edu.cn if you have any question on the codes. If you find this repository useful, please consider giving ⭐.
