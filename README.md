@@ -1,3 +1,5 @@
+
+
 # CodeTAE
 
 This is the official code repository for the paper "[Exploiting the Adversarial Example Vulnerability of Transfer Learning of Source Code](https://ieeexplore.ieee.org/abstract/document/10531252)"(TIFS 2024).
@@ -16,7 +18,7 @@ State-of-the-art source code classification models exhibit excellent task transf
 - pandas >= 1.3.5
 - tqdm >= 4.65.0
 
-## Substitute ldentifier Generation
+## Substitute Identifier Generation
 
 We have released all our generated substitute identifiers under `/Authorship-Attribution/dataset/data_folder/processed_gcipy`. You can simple skip this step and use these sub files in the "Obfuscated Code Insertion" step. Otherwise, if your want to re-implement the substitute identifier by yourself, please follow the steps below.
 
